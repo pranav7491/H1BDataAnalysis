@@ -5,3 +5,4 @@ It has attributes such as case status, worksite coordinates, employer name, job 
 So far, I have answered questions such as,
 
 - What is the Case status for number of applications?
+- What is the Case status for number of applications per year?
